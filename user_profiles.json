@@ -1,0 +1,31 @@
+{
+    "7991156675": {
+        "user_id": "7991156675",
+        "username": null,
+        "language": "tr",
+        "created_at": "2024-11-07 11:06:32.892074",
+        "videos": [
+            {
+                "id": 1,
+                "title": "asd",
+                "date": "2024-11-07 11:06:32.893077",
+                "format": "3",
+                "length": "1",
+                "style": "2"
+            }
+        ],
+        "settings": {
+            "notifications": true,
+            "auto_preview": true,
+            "default_format": "9:16",
+            "watermark": null,
+            "preferred_voice": null
+        },
+        "stats": {
+            "total_videos": 1,
+            "total_credits_used": 1,
+            "total_spent": 0,
+            "last_video_date": "2024-11-07 11:06:32.893077"
+        }
+    }
+}
